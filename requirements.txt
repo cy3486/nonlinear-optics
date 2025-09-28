@@ -6,4 +6,5 @@ sphinx-book-theme==0.3.3
 ipywidgets==7.6.5
 sympy==1.10.1
 ipympl
+ipykernel
 # crystals
